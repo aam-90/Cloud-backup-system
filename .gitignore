@@ -1,0 +1,8 @@
+
+credentials.json
+token.json
+drive_folder_id.txt
+__pycache__/
+*.py[cod]
+.venv/
+.env

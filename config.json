@@ -1,0 +1,6 @@
+
+{
+    "source_folder": "C:/BackupSource",
+    "backup_folder": "C:/CloudBackup/BackupFiles",
+    "backup_interval_minutes": 1
+}
